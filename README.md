@@ -2,31 +2,33 @@
 
 Bem-vindo(a) ao meu perfil no GitHub! 🚀
 
-Sou estudante de tecnologia e estou no início da minha jornada no desenvolvimento de software. Utilizo este espaço para documentar meus estudos, primeiros códigos e evolução na programação.
+Sou estudante de tecnologia focado em desenvolvimento de software e lógica de programação. Utilizo este espaço para documentar meus estudos, projetos práticos e minha evolução diária.
 
 ---
 
-### 📚 O que estou estudando (Em Aprendizado)
+### 📚 Cursos & Formações em Andamento
 
-Atualmente estou focado em aprender e praticar:
-- **Linguagens:** Python, Java
-- **Desenvolvimento Web:** HTML5, CSS3 e JavaScript
-- **Ferramentas:** Git e GitHub (controle de versão)
+- 🎓 **Bootcamp Itaú Java com IA** — *DIO (Digital Innovation One)*
+  - Foco em Java, Orientação a Objetos e fundamentos de desenvolvimento backend.
+- 🎓 **Programador Web** — *IFRS (Instituto Federal do Rio Grande do Sul)*
+  - Desenvolvimento web com HTML5, CSS3 e JavaScript.
+- 🐍 **Estudos de Lógica e Python**
+  - Prática de lógica de programação, estrutura de dados e resolução de desafios.
 
 ---
 
-### 🛠️ Projetos Pessoais & Experimentos
+### 🛠️ Tecnologias & Ferramentas (Em Aprendizado)
 
-Projetos que desenvolvo por curiosidade, prática pessoal e hobby:
+- **Linguagens:** Java, Python, JavaScript
+- **Web:** HTML5, CSS3
+- **Ferramentas:** Git, GitHub, VS Code, Termux
+
+---
+
+### 💡 Projetos Pessoais & Experimentos
+
 - **Hardware & Eletrônica:** Experimentos práticos com ESP32, displays OLED, LEDs e protoboard.
-- **Cibersegurança:** Estudos e conceitos básicos explorados como interesse/projeto pessoal.
-
----
-
-### 📁 O que você vai encontrar aqui
-
-- Meus primeiros códigos e exercícios em **Python**.
-- Repositórios de prática com **Git e GitHub**.
+- **Cibersegurança:** Estudos e conceitos básicos explorados por interesse e curiosidade pessoal.
 
 ---
 
