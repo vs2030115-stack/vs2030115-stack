@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Vitor! 👋
 
-<!--
-**vs2030115-stack/vs2030115-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil no GitHub! 🚀
 
-Here are some ideas to get you started:
+Sou estudante de tecnologia e estou no início da minha jornada no desenvolvimento de software. Utilizo este espaço para documentar meus estudos, primeiros códigos e evolução na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 O que estou estudando (Em Aprendizado)
+
+Atualmente estou focado em aprender e praticar:
+- **Linguagens:** Python, Java
+- **Desenvolvimento Web:** HTML5, CSS3 e JavaScript
+- **Ferramentas:** Git e GitHub (controle de versão)
+
+---
+
+### 🛠️ Projetos Pessoais & Experimentos
+
+Projetos que desenvolvo por curiosidade, prática pessoal e hobby:
+- **Hardware & Eletrônica:** Experimentos práticos com ESP32, displays OLED, LEDs e protoboard.
+- **Cibersegurança:** Estudos e conceitos básicos explorados como interesse/projeto pessoal.
+
+---
+
+### 📁 O que você vai encontrar aqui
+
+- Meus primeiros códigos e exercícios em **Python**.
+- Repositórios de prática com **Git e GitHub**.
+
+---
+
+💡 *Em constante aprendizado e evolução diária.*
